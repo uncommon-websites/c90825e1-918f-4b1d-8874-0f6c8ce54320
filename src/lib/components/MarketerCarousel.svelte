@@ -1,82 +1,60 @@
 <section class="py-24 bg-white font-sans overflow-hidden">
     <div class="max-w-7xl mx-auto px-4 mb-12 flex flex-col md:flex-row justify-between items-end">
         <div class="max-w-2xl">
-            <h2 class="text-4xl md:text-5xl font-serif-display text-gray-900 mb-6">The world's best marketers, leveling each other up.</h2>
+            <h2 class="text-4xl md:text-5xl font-serif-display text-gray-900 mb-6">Built by visionaries, for the future of connection.</h2>
         </div>
         <div class="text-right">
-             <p class="text-xs text-gray-500 max-w-xs ml-auto mb-4">Our private slack community is free to operators at security, and here to turn visibility into conversions.</p>
-             <a href="#" class="text-xs font-bold border-b border-gray-300 pb-0.5 hover:border-gray-900 transition-colors">Join The Pros -></a>
+             <p class="text-xs text-gray-500 max-w-xs ml-auto mb-4">Our team of experts in AI, psychology, and design are dedicated to creating safe and meaningful digital relationships.</p>
+             <a href="#" class="text-xs font-bold border-b border-gray-300 pb-0.5 hover:border-gray-900 transition-colors">Meet the Team -></a>
         </div>
     </div>
 
     <!-- Carousel Track (Simulated) -->
     <div class="flex gap-6 overflow-x-auto px-4 pb-8 scrollbar-hide">
         <!-- Card 1 -->
-        <div class="min-w-[300px] md:min-w-[400px] bg-[#FDF2F8] rounded-xl overflow-hidden relative group cursor-pointer aspect-[4/3]">
-             <div class="absolute top-4 left-4 z-10">
-                 <span class="text-[10px] font-bold uppercase tracking-widest bg-white/80 backdrop-blur px-2 py-1 rounded">The New Content Era</span>
-             </div>
-             <div class="p-8 h-full flex flex-col justify-end relative z-10">
-                 <h3 class="text-2xl font-serif-display mb-2">Needs Builders, Not Bystanders</h3>
-                 <div class="flex items-center justify-between mt-4">
-                     <span class="font-bold text-xs opacity-50">airops</span>
-                     <div class="w-10 h-10 bg-white rounded-full flex items-center justify-center shadow-sm">
-                         <svg class="w-4 h-4 ml-0.5" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
-                     </div>
-                 </div>
-             </div>
-             <!-- Background Image Overlay -->
-             <div class="absolute inset-0 bg-gradient-to-t from-pink-100 to-transparent opacity-80"></div>
-        </div>
-
-        <!-- Card 2 -->
-        <div class="min-w-[300px] md:min-w-[400px] bg-[#FFF5EB] rounded-xl overflow-hidden relative group cursor-pointer aspect-[4/3]">
+        <div class="min-w-[300px] md:min-w-[400px] bg-primary-50 rounded-xl overflow-hidden relative group cursor-pointer aspect-[4/3]">
              <div class="p-8 h-full flex flex-col justify-end relative z-10">
                  <div class="flex items-end gap-4">
-                     <img src="https://placehold.co/100x100/orange/white?text=User" class="w-16 h-16 rounded grayscale object-cover" alt="User" />
+                     <img src="/generated/image-a-professional-portrait-of-a-man-in-his--1771858300382-0.webp" class="w-24 h-24 rounded grayscale object-cover" alt="Stjepan Harkanovac" />
                      <div>
-                         <h3 class="text-xl font-serif-display leading-tight">Nicole Reil</h3>
-                         <p class="text-xs text-gray-500">CMO, Cotto</p>
+                         <h3 class="text-2xl font-serif-display leading-tight">Stjepan Harkanovac</h3>
+                         <p class="text-xs text-gray-500">Director & Founder</p>
                      </div>
                  </div>
                  <div class="mt-4 pt-4 border-t border-gray-200">
-                     <span class="font-bold text-xs opacity-50">COTTO</span>
+                     <span class="font-bold text-xs opacity-50">Softly.one</span>
+                 </div>
+             </div>
+        </div>
+
+        <!-- Card 2 -->
+        <div class="min-w-[300px] md:min-w-[400px] bg-gray-100 rounded-xl overflow-hidden relative group cursor-pointer aspect-[4/3]">
+             <div class="p-8 h-full flex flex-col justify-end relative z-10">
+                 <div class="flex items-end gap-4">
+                     <img src="/generated/image-a-professional-portrait-of-a-woman-in-he-1771858303591-1.webp" class="w-24 h-24 rounded grayscale object-cover" alt="Elena Vance" />
+                     <div>
+                         <h3 class="text-2xl font-serif-display leading-tight">Elena Vance</h3>
+                         <p class="text-xs text-gray-500">AI Ethics Lead</p>
+                     </div>
+                 </div>
+                 <div class="mt-4 pt-4 border-t border-gray-200">
+                     <span class="font-bold text-xs opacity-50">Softly.one</span>
                  </div>
              </div>
         </div>
 
         <!-- Card 3 -->
-        <div class="min-w-[300px] md:min-w-[400px] bg-[#E6FFFA] rounded-xl overflow-hidden relative group cursor-pointer aspect-[4/3]">
-             <div class="absolute top-4 left-4 z-10">
-                 <span class="text-[10px] font-bold uppercase tracking-widest bg-white/80 backdrop-blur px-2 py-1 rounded">Where's the Alpha?</span>
-             </div>
-             <div class="p-8 h-full flex flex-col justify-center relative z-10">
-                 <h3 class="text-3xl font-serif-display mb-4">How We're Thinking About AI Search at Ramp</h3>
-                 <div class="flex items-center gap-3 mt-4">
-                     <img src="https://placehold.co/50x50/green/white?text=N" class="w-10 h-10 rounded-full grayscale" alt="User" />
-                     <div class="text-xs">
-                         <div class="font-bold">Natalie Marcot</div>
-                         <div class="text-gray-500">VP of Growth & Demand, Ramp</div>
-                     </div>
-                 </div>
-                 <div class="mt-4">
-                     <span class="font-bold text-xs opacity-50">ramp</span>
-                 </div>
-             </div>
-        </div>
-        
-        <!-- Card 4 (Partial) -->
-        <div class="min-w-[300px] md:min-w-[400px] bg-[#FEFCBF] rounded-xl overflow-hidden relative group cursor-pointer aspect-[4/3]">
+        <div class="min-w-[300px] md:min-w-[400px] bg-primary-50 rounded-xl overflow-hidden relative group cursor-pointer aspect-[4/3]">
              <div class="p-8 h-full flex flex-col justify-end relative z-10">
                  <div class="flex items-end gap-4">
-                     <img src="https://placehold.co/100x100/yellow/white?text=S" class="w-16 h-16 rounded grayscale object-cover" alt="User" />
+                     <img src="/generated/image-a-professional-portrait-of-a-man-in-his--1771858306680-2.webp" class="w-24 h-24 rounded grayscale object-cover" alt="Marcus Thorne" />
                      <div>
-                         <h3 class="text-xl font-serif-display leading-tight">Sarah Jenkins</h3>
-                         <p class="text-xs text-gray-500">Head of SEO, TechFlow</p>
+                         <h3 class="text-2xl font-serif-display leading-tight">Marcus Thorne</h3>
+                         <p class="text-xs text-gray-500">Lead Character Designer</p>
                      </div>
                  </div>
-                 <div class="mt-4 pt-4 border-t border-gray-200/50">
-                     <span class="font-bold text-xs opacity-50">TechFlow</span>
+                 <div class="mt-4 pt-4 border-t border-gray-200">
+                     <span class="font-bold text-xs opacity-50">Softly.one</span>
                  </div>
              </div>
         </div>
